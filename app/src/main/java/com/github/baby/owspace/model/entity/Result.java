@@ -1,10 +1,5 @@
 package com.github.baby.owspace.model.entity;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/21
- * owspace
- */
 public class Result {
 
     /**

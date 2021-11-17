@@ -16,11 +16,6 @@ import javax.inject.Inject;
 import rx.Subscriber;
 import rx.schedulers.Schedulers;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/22
- * owspace
- */
 public class SplashPresenter implements SplashContract.Presenter{
     private SplashContract.View view;
     private ApiService apiService;

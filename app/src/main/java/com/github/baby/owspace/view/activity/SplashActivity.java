@@ -43,11 +43,7 @@ import butterknife.ButterKnife;
 import pub.devrel.easypermissions.AfterPermissionGranted;
 import pub.devrel.easypermissions.EasyPermissions;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/22
- * owspace
- */
+
 public class SplashActivity extends BaseActivity implements SplashContract.View, EasyPermissions.PermissionCallbacks {
     @BindView(R.id.splash_img)
     FixedImageView splashImg;

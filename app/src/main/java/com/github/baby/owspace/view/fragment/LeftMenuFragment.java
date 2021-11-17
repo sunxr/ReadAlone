@@ -25,11 +25,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/22
- * owspace
- */
 public class LeftMenuFragment extends Fragment {
     @BindView(R.id.right_slide_close)
     ImageView rightSlideClose;

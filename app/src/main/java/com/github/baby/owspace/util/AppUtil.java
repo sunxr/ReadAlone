@@ -6,11 +6,6 @@ import android.content.pm.PackageManager;
 import android.telephony.TelephonyManager;
 import android.view.WindowManager;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/21
- * owspace
- */
 public class AppUtil {
     /**
      * 获取app版本名

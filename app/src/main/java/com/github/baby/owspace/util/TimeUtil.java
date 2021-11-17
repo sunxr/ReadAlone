@@ -5,11 +5,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/21
- * owspace
- */
 public class TimeUtil {
     public static long getCurrentSeconds(){
         long ls = System.currentTimeMillis()/1000;

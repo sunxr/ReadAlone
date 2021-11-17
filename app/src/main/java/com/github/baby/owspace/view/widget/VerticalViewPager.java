@@ -46,11 +46,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/25
- * owspace
- */
 public class VerticalViewPager extends ViewGroup{
     private static final String TAG = "ViewPager";
     private static final boolean DEBUG = false;

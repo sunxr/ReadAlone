@@ -7,11 +7,6 @@ import android.util.DisplayMetrics;
 import android.view.View;
 import android.widget.ImageView;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/22
- * owspace
- */
 public class FixedImageView extends ImageView {
     private int mScreenHeight;
 

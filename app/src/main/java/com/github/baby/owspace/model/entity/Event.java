@@ -1,10 +1,5 @@
 package com.github.baby.owspace.model.entity;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/8/22
- * owspace
- */
 public class Event {
     long id;
     String name;

@@ -5,11 +5,6 @@ import rx.subjects.PublishSubject;
 import rx.subjects.SerializedSubject;
 import rx.subjects.Subject;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/8/22
- * owspace
- */
 public class RxBus {
     private static volatile RxBus instance;
 

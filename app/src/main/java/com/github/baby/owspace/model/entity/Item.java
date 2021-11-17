@@ -6,11 +6,6 @@ import android.os.Parcelable;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/21
- * owspace
- */
 public class Item implements Parcelable {
 
     /**

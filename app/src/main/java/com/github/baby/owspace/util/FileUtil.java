@@ -10,11 +10,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/25
- * owspace
- */
 public class FileUtil {
     public static final String SDPATH = Environment.getExternalStorageDirectory().getAbsolutePath();
 

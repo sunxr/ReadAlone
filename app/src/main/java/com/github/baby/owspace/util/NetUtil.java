@@ -7,11 +7,6 @@ import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/21
- * owspace
- */
 public class NetUtil {
     /**
      * 判断网络是否连接

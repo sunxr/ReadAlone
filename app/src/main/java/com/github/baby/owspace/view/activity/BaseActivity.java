@@ -7,11 +7,6 @@ import android.support.v7.app.AppCompatActivity;
 
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/10/27
- * owspace
- */
 
 public abstract class BaseActivity extends AppCompatActivity{
 

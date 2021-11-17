@@ -7,11 +7,6 @@ import okhttp3.ResponseBody;
 import retrofit2.Converter;
 import retrofit2.Retrofit;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/9/1
- * owspace
- */
 public class StringConverterFactory extends Converter.Factory {
 
     public static StringConverterFactory create(){

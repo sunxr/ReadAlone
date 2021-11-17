@@ -9,11 +9,6 @@ import dagger.Component;
 import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/10/27
- * owspace
- */
 @Component(modules = NetModule.class)
 @Singleton
 public interface NetComponent {

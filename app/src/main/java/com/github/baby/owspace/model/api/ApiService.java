@@ -10,11 +10,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 import rx.Observable;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/21
- * Owspace
- */
 public interface ApiService {
     /**
      * <p>http://static.owspace.com/static/picture_list.txt?client=android&version=1.3.0&time=1467864021&device_id=866963027059338</p>

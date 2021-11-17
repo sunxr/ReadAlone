@@ -9,11 +9,6 @@ import java.io.InputStream;
 
 import okhttp3.Request;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/25
- * owspace
- */
 public class OkHttpImageDownloader {
     public static void download(String url){
         final Request request = new Request.Builder().url(url).build();

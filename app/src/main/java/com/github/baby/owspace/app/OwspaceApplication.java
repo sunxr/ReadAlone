@@ -13,11 +13,6 @@ import com.orhanobut.logger.Logger;
 
 import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
 
-/**
- * Created by Mr.Yangxiufeng
- * DATE 2016/7/21
- * Owspace
- */
 public class OwspaceApplication extends Application{
 
     private static OwspaceApplication instance;
